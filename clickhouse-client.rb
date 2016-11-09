@@ -1,4 +1,4 @@
-class ClickHouseClient < Formula
+class ClickhouseClient < Formula
 	desc "ClickHouse command-line client"
 	homepage "https://clickhouse.yandex/"
 	url "https://github.yandex-team.ru/chebotarev/ClickHouse/releases/download/1.1.54055/clickhouse-client-1.1.54055.tar.gz"
